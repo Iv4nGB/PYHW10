@@ -11,6 +11,10 @@ PS C:\Users\79819> git commit -m " jjj"
 PS C:\Users\79819> git branch branch_1
 PS C:\Users\79819> git checkout branch_1
 Switched to branch 'branch_1'
+<<<<<<< HEAD
 fsdsadcdsacsdC
 sdasda
 sdadsacs
+=======
+dasdasdasdasdas
+>>>>>>> branch_1
